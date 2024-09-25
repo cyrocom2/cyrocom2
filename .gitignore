@@ -1,0 +1,117 @@
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+desktop.ini
+
+# Ignore log files and temp files
+*.log
+*.tmp
+
+# Ignore node_modules if you're using JavaScript frameworks/libraries
+node_modules/
+
+# Ignore compiled output
+*.class
+*.o
+*.out
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore system specific files
+*.bak
+*.swp
+*.swo
+*.swn
+
+# Ignore files related to package managers
+package-lock.json
+yarn.lock
+
+# Ignore environment variables or sensitive data
+.env
+.env.local
+.env.*.local
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore temporary files
+*.swp
+*.bak
+*.orig
+*.tmp
+
+# Ignore binaries and executables
+*.exe
+*.out
+*.app
+
+# Ignore OS-specific files
+*.DS_Store
+
+# Ignore by file extensions
+*.log
+*.tmp
+
+# Ignore GitHub specific files
+.github/
+
+# Ignore API keys or secrets (just an example, modify accordingly)
+*.key
+*.pem
+*.cert
+*.p12
+
+# Ignore GitHub Pages specific files (e.g., if using Jekyll)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignore Android specific files (if part of your project)
+*.apk
+*.ap_
+*.dex
+*.jar
+*.class
+*.so
+*.obj
+*.exe
+*.dll
+*.pdb
+*.hprof
+*.ldb
+*.lock
+*.pyo
+*.min.js
+*.map
+*.prop
+.gradle/
+.gradle/caches/
+.gradle/6.1.1/
+.gradle/7.0/
+local.properties
+settings.gradle
+.idea/
+build/
+caches/
+output.json
+dependency-reduced-pom.xml
+.project
+.metadata
+*.bak
+*.orig
+*.rej
+*.sublime-workspace
+*.swp
+*.git/
+*.gitignore
