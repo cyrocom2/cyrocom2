@@ -21,10 +21,10 @@ Easy Score Converter is a handy tool designed for educators to effortlessly conv
 
 ## 🔗 Quick Links
 
-- [**🏠 Home Page**](https://yourusername.github.io/YourRepository/) - Overview and features of the Easy Score Converter.
+- [**🏠 Home Page**](https://yourusername.github.io/home.html/) - Overview and features of the Easy Score Converter.
 - [**📊 Score Converter Page**](https://yourusername.github.io/YourRepository/score-converter.html) - Access the Score Converter tool.
 - [**🔒 Privacy Policy**](https://yourusername.github.io/YourRepository/privacy-policy.html) - Learn how we protect your privacy.
-- [**📥 Download the App**](#) - Link to the Google Play Store or other download page.
+- [**📥 Download the App**](https://play.google.com/store/apps/details?id=com.cyrocom.scoreconverter) - Link to the Google Play Store or other download page.
 
 ## ✨ Features
 
