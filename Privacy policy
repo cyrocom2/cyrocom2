@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Privacy Policy for Easy Score Converter">
+    <title>Privacy Policy - Easy Score Converter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #0073e6;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #0073e6;
+        }
+        p {
+            line-height: 1.6;
+        }
+        ul {
+            margin: 10px 0;
+            padding: 0 20px;
+        }
+        a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Privacy Policy</h1>
+        <p>Effective Date: 12th September 2024</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>1. Information We Collect</h2>
+            <p>The Easy Score Converter App itself does not collect any personal information from users as it operates entirely offline.</p>
+            <p>However, when using the App, Google AdMob may collect certain information as part of serving ads. This may include:</p>
+            <ul>
+                <li>Device information (e.g., device model, operating system)</li>
+                <li>Location data (if you have location services enabled)</li>
+                <li>Advertising identifiers (for personalized ads)</li>
+            </ul>
+            <p>You can learn more about what Google AdMob collects by reviewing <a href="https://policies.google.com/privacy" target="_blank">Google's Privacy Policy</a>.</p>
+        </section>
+
+        <section>
+            <h2>2. Use of Information</h2>
+            <ul>
+                <li>The information collected by Google AdMob is used to personalize and improve the relevancy of ads displayed within the App.</li>
+                <li>We do not directly collect or store any personal information.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>3. Third-Party Services</h2>
+            <p>The App uses AdMob by Google to display ads, which may collect user data for advertising purposes. You can control how Google collects and uses information for advertising purposes through your Google account's Ad Settings or the device's privacy settings.</p>
+            <p>For more details, you can refer to:</p>
+            <ul>
+                <li><a href="https://policies.google.com/privacy" target="_blank">Google's Privacy & Terms</a></li>
+                <li><a href="https://support.google.com/admob/answer/6128543" target="_blank">Google AdMob Policies</a></li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>4. Children's Privacy</h2>
+            <p>The App is intended for use by educators and not for children under 13. We do not knowingly collect any personal information from children. If you believe we have collected personal information from a child, please contact us immediately.</p>
+        </section>
+
+        <section>
+            <h2>5. Changes to This Privacy Policy</h2>
+            <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page, and the effective date will be updated.</p>
+        </section>
+
+        <section>
+            <h2>6. Contact Us</h2>
+            <p>If you have any questions or concerns about this Privacy Policy, feel free to contact us at:</p>
+            <p>Email: <a href="mailto:cyrocom@yahoo.com">cyrocom@yahoo.com</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Easy Score Converter. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
