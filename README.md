@@ -22,7 +22,7 @@ Easy Score Converter is a handy tool designed for educators to effortlessly conv
 ## 🔗 Quick Links
 
 - [**🏠 Home Page**](home.html) - Overview and features of the Easy Score Converter.
-- [**📊 Score Converter Page**](cyrocom2.github.io/cyrocom2/home)) - Access the Score Converter tool.
+- [**📊 Score Converter Page**](home.html) - Access the Score Converter tool.
 - [**🔒 Privacy Policy**](cyrocom2.github.io/cyrocom2/Policy) - Learn how we protect your privacy.
 - [**📥 Download the App**](https://play.google.com/store/apps/details?id=com.cyrocom.scoreconverter) - Link to the Google Play Store or other download page.
 ## ✨ Features
