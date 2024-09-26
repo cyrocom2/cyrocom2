@@ -21,9 +21,9 @@ Easy Score Converter is a handy tool designed for educators to effortlessly conv
 
 ## 🔗 Quick Links
 
-- [**🏠 Home Page**](https://cyrocom2.github.io/home.html/) - Overview and features of the Easy Score Converter.
-- [**📊 Score Converter Page**](https://cyrocom2.github.io/cyrocom2/score-converter.html) - Access the Score Converter tool.
-- [**🔒 Privacy Policy**](https://cyrocom2.github.io/cyrocom2/htmlPrivacy-policy) - Learn how we protect your privacy.
+- [**🏠 Home Page**](home) - Overview and features of the Easy Score Converter.
+- [**📊 Score Converter Page**](home) - Access the Score Converter tool.
+- [**🔒 Privacy Policy**](Privacy-plicy) - Learn how we protect your privacy.
 - [**📥 Download the App**](https://play.google.com/store/apps/details?id=com.cyrocom.scoreconverter) - Link to the Google Play Store or other download page.
 ## ✨ Features
 
@@ -57,8 +57,6 @@ This project is licensed under the [MIT License](LICENSE).
 Stay connected for updates and new features:
 
 - [GitHub](https://github.com/cyrocom2)
-- [Twitter](#)
-- [LinkedIn](#)
 
 ---
 
